@@ -1,9 +1,9 @@
 //Tipos de dados 
 
 //String
-"Nayara"
-`Nayara`
-'Nayara'
+"Lívia"
+`Lívia`
+'Lívia'
 
 //Number 
 0
@@ -40,8 +40,8 @@ turma = ["Iasmin", "Matheus", "Mário"]
 
 //Estrutura de Objeto 
 let pessoa = {
-  nome: "Nayara",
-  idade: 30,
+  nome: "Lívia",
+  idade: 27,
   profissao: "Desenvolvedora Fullstack"
 }
 
