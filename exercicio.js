@@ -15,9 +15,9 @@ console.log(soma)
 
 // Incremente o número 5 e retorne o seu valor incrementado
 
-let number = 5;
-numero++;
-console.log(numero);
+let incremento = 5;
+incremento += 1
+console.log("incremento:",incremento);
 
 // Como dividir o peso por 2? 
 let numero = '60';
